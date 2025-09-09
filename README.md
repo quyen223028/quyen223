@@ -1,1 +1,1 @@
-day la readme tu nhanh main 
+Đây là README từ nhánh conflict-demo.
